@@ -20,7 +20,7 @@ Bu proje, Erciyes Üniversitesi Mobil Uygulama Geliştirme dersi final projesi o
 
 1. Depoyu klonlayın:
     ```bash
-    git clone https://github.com/kullaniciadi/yemek-listesi.git
+    git clone https://github.com/oktayparlak/yemek-listesi.git
     ```
 2. Gerekli paketleri yükleyin:
     ```bash
@@ -63,7 +63,7 @@ This project is developed as the final project for the Mobile App Development co
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/food-list.git
+    git clone https://github.com/oktayparlak/food-list.git
     ```
 2. Install the necessary packages:
     ```bash
